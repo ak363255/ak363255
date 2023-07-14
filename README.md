@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [MagicBricks Projects](https://play.google.com/store/apps/details?id=com.timesgroup.magicbricks&hl=en_IN&gl=US)
 
+- 👨‍💻 All of my projects are available at [https://github.com/ak363255?tab=repositories](https://github.com/ak363255?tab=repositories)
+
 - 💬 Ask me about **Android App development**
 
 - 📫 How to reach me **ak363255@gmail.com**
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit-kumar-925127172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-925127172" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ak363255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ak363255" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ak363255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ak363255" height="30" width="40" /></a>
 </p>
 
