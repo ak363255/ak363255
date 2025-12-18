@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working in [Phonepe][https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN&pli=1]
+- 🔭 I’m currently working in **Phonepe** [https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN&pli=1]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ak363255?tab=repositories](https://github.com/ak363255?tab=repositories)
 
